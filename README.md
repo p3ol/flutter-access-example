@@ -11,5 +11,5 @@ flutter pub get
 To serve, start your prefered emulator and simply run:
 
 ```bash
-cd example && flutter run
+cd example && flutter run lib/flutter_access_example.dart
 ```
